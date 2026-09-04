@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4c6eae84.css",
-    "main.js": "/static/js/main.a191d3ad.js",
+    "main.js": "/static/js/main.f3aa63cc.js",
     "static/js/453.e0b89b70.chunk.js": "/static/js/453.e0b89b70.chunk.js",
     "static/media/backgroundVid.mp4": "/static/media/backgroundVid.14ab3a8850c56a319772.mp4",
     "static/media/Jonathan Crimson.png": "/static/media/Jonathan Crimson.c4dd99bbf58da7c04e42.png",
@@ -45,11 +45,11 @@
     "static/media/dogecoin.svg": "/static/media/dogecoin.71886046079dc5a5299489a7e95b7555.svg",
     "static/media/usdt.svg": "/static/media/usdt.d8f170d67df12f7ffcdbab2979ab9543.svg",
     "main.4c6eae84.css.map": "/static/css/main.4c6eae84.css.map",
-    "main.a191d3ad.js.map": "/static/js/main.a191d3ad.js.map",
+    "main.f3aa63cc.js.map": "/static/js/main.f3aa63cc.js.map",
     "453.e0b89b70.chunk.js.map": "/static/js/453.e0b89b70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c6eae84.css",
-    "static/js/main.a191d3ad.js"
+    "static/js/main.f3aa63cc.js"
   ]
 }
