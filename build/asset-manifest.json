@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4c6eae84.css",
-    "main.js": "/static/js/main.f3aa63cc.js",
-    "static/js/453.e0b89b70.chunk.js": "/static/js/453.e0b89b70.chunk.js",
+    "main.js": "/static/js/main.9b63c14b.js",
+    "static/js/453.4245c6ad.chunk.js": "/static/js/453.4245c6ad.chunk.js",
     "static/media/backgroundVid.mp4": "/static/media/backgroundVid.14ab3a8850c56a319772.mp4",
     "static/media/Jonathan Crimson.png": "/static/media/Jonathan Crimson.c4dd99bbf58da7c04e42.png",
     "static/media/airplane.jpg": "/static/media/airplane.c0c517b45fcf50f9438a.jpg",
@@ -10,7 +10,7 @@
     "static/media/person_2.jpg": "/static/media/person_2.0f507c4f9b62a3aca7d4.jpg",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/bg-doctor.png": "/static/media/bg-doctor.11f7b0f28aa7258d486d.png",
+    "static/media/wealthoracare-logo.png": "/static/media/wealthoracare-logo.23788736463b6c03e5ad.png",
     "static/media/car-award.jpg": "/static/media/car-award.f92485cae110c16be75b.jpg",
     "static/media/btc.png": "/static/media/btc.e82cd967d60c2dc95c39.png",
     "static/media/bg.png": "/static/media/bg.3920461de393e6771200.png",
@@ -45,11 +45,11 @@
     "static/media/dogecoin.svg": "/static/media/dogecoin.71886046079dc5a5299489a7e95b7555.svg",
     "static/media/usdt.svg": "/static/media/usdt.d8f170d67df12f7ffcdbab2979ab9543.svg",
     "main.4c6eae84.css.map": "/static/css/main.4c6eae84.css.map",
-    "main.f3aa63cc.js.map": "/static/js/main.f3aa63cc.js.map",
-    "453.e0b89b70.chunk.js.map": "/static/js/453.e0b89b70.chunk.js.map"
+    "main.9b63c14b.js.map": "/static/js/main.9b63c14b.js.map",
+    "453.4245c6ad.chunk.js.map": "/static/js/453.4245c6ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c6eae84.css",
-    "static/js/main.f3aa63cc.js"
+    "static/js/main.9b63c14b.js"
   ]
 }
